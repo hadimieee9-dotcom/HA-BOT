@@ -23,8 +23,8 @@ logger = logging.getLogger(__name__)
 # تنظیمات پیش‌فرض
 CONFIG_FILE = "bot_config.json"
 DEFAULT_CONFIG = {
-    "host_usernames": ["Hadixgame3"],
-    "admin_usernames": ["Hadixgame3"],
+    "host_usernames": ["800.30"],
+    "admin_usernames": ["800.30"],
     "vip_usernames": [],
     "banned_users": [],
     "teleport_locations": {
